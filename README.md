@@ -49,5 +49,5 @@ The R² value represents the proportion of variance in lake WSE that can be expl
 
 
 - Data files are not included due to size and/or licensing constraints
-- File paths in scripts must be updated to run locally
-- Intermediate steps (e.g., date assignment) were performed in Excel as part of preprocessing
+- File paths in scripts must be updated
+- Intermediate steps (e.g., adding dates to the top row in excel before script 2) were performed in Excel as part of preprocessing
